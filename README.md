@@ -1,6 +1,6 @@
 # Portfolio landing page
-#### {helps one discover different coding styles i used with html and css}, Date of current version
-#### By **Moringa School*
+#### helps one discover different coding styles i used with html and css, Date of current version
+#### By **Barasa Wakasa Silvia**
 ## Description
 It helps one to know how to come up with a portfolio landing page using codes and without having any difficulty in that by using the codes it makes it easier for one to easily create a webpage.One only has to type commands in the terminal,style with css,enter html codes, link it to github and github pages
 ## Setup/Installation Requirements
