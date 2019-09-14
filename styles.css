@@ -11,7 +11,10 @@ p {
 #line2 {
     color: purple;
 }
-h2 {
+.line1 {
+    color: orangered
+}
+     h2 {
   color: blue;
   font-style: italic;
 }
@@ -28,6 +31,11 @@ body {
 p .love {
     font-size: 15px;
 }
+.love {
+    color: blue;
+}
+.codding {
+    color: blue;
 h3 {
     color: blue;
     font-style: italic;
