@@ -15,6 +15,13 @@ p {
 body {
     background-color: yellowgreen;
 }
+.love {
+    color: red;
+    font-size: 20px;
+}
+p .love {
+    font-size: 15px;
+}
 h3 {
     color: blue;
     font-style: italic;
