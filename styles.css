@@ -5,6 +5,12 @@ h1 {
 p {
     font-style: italic;
 }
+.line1 {
+    color: purple;
+}
+#line2 {
+    color: purple;
+}
 h2 {
   color: blue;
   font-style: italic;
