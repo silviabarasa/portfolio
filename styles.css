@@ -31,7 +31,9 @@ p {
     border-right: 4px solid blue;
   border-top: 6px solid green;
   border-bottom: 8px solid plum;
-  padding: 2px; 
+  padding: 2px;
+  margin: 20px;
+  background-color:orangered; 
   }
 p {
   font-family: sans-serif;
