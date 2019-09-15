@@ -33,12 +33,12 @@ p {
   font-style: italic;
 }
 .love {
-    border-left: 2px solid red;
-    border-right: 4px solid blue;
-  border-top: 6px solid green;
-  border-bottom: 8px solid plum;
+    border-left: 100% solid red;
+    border-right: 100% solid blue;
+  border-top: 100% solid green;
+  border-bottom: 100% solid plum;
   padding: 2px;
-  margin: 20px;
+  margin: 60px;
   background-color:orangered; 
   }
   .love p a {
