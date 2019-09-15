@@ -26,6 +26,13 @@ p {
   color: blue;
   font-style: italic;
 }
+.love {
+    border-left: 2px solid red;
+    border-right: 4px solid blue;
+  border-top: 6px solid green;
+  border-bottom: 8px solid plum;
+  padding: 2px; 
+  }
 p {
   font-family: sans-serif;
 }
