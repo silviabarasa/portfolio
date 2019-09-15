@@ -26,7 +26,7 @@ p {
     color: purple;
 }
 .line1 {
-    color: orangered
+    color: orangered;
 }
      h2 {
   color: blue;
@@ -39,7 +39,7 @@ p {
   border-bottom: 100% solid plum;
   padding: 2px;
   margin: 60px;
-  background-color:orangered; 
+  background-color: white; 
   }
   .love p a {
     font-weight: bold;
