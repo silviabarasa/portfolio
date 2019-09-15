@@ -1,6 +1,9 @@
 img {
     float: left;
 }
+body {
+    font-family: sans-serif;
+}
 h1 {
     color: blue;
  
