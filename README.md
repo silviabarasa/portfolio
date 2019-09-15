@@ -1,6 +1,6 @@
 # {Barasa Wakasa Silvia}
 #### {helps one discover different coding styles i used with html and css} {2019}
-#### By **{Barasa Wakasa Silvia}**
+#### By **{Moringa School}**
 ## Description
 {It helps one to know how to come up with a portfolio landing page using codes and without having any difficulty in that by using the codes it makes it easier for one to easily create a webpage.One only has to type commands in the terminal,style with css, enter html codes, link it to github and github pages.}
 ## Setup/Installation Requirements
