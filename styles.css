@@ -102,12 +102,25 @@ border-left: 100% solid red;
   margin: 60px;
   background-color: pink;
 }
-  h4{
+  h4 {
     color: blue;
-    font-style: italic;
-p {
-    font-family: sans-serif;
-}
+    font-style: italic; 
+    border-left: 100% solid red;
+    border-right: 100% solid blue;
+  border-top: 100% solid green;
+  border-bottom: 100% solid plum;
+  padding: 2px;
+  margin: 60px;
+  background-color: blueviolet;
+  }
 ol {
-    line-height: 30px;
+    font-family: sans-serif;
+    border-left: 100% solid red;
+    border-right: 100% solid blue;
+  border-top: 100% solid green;
+  border-bottom: 100% solid plum;
+  padding: 2px;
+  margin: 60px;
+  background-color: blueviolet;
 }
+
