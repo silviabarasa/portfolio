@@ -1,3 +1,4 @@
+
 img {
     float: left;
 }
@@ -40,6 +41,29 @@ p {
   margin: 20px;
   background-color:orangered; 
   }
+  .love p a {
+    font-weight: bold;
+  }
+  a {
+    font-weight: normal;
+  }
+  @media screen and (min-width: 480px) and (max-width: 767px) {
+    body {
+        background-color: black;
+        color: green;
+    }
+}
+@media screen and (min-width: 768px) {
+  body {
+    background-color: yellowgreen;
+  }
+  .column {
+    width: 220px;
+    float: left;
+    padding: 15px;
+  }
+}   
+}
 p {
   font-family: sans-serif;
   font-weight: bold;
